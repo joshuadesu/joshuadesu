@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <a href="https://twitter.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://open.kakao.com"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/></a>
-  <a href="https://velog.io"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@meron_pan/posts"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
 
 
